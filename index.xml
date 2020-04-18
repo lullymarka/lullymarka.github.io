@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LullyMarka</title>
+    <link>https://lullymarka.github.io/</link>
+    <description>Recent content on LullyMarka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 12 Sep 2019 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://lullymarka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sesion de fotos</title>
+      <link>https://lullymarka.github.io/blog/simple-blog-post-8/</link>
+      <pubDate>Thu, 12 Sep 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lullymarka.github.io/blog/simple-blog-post-8/</guid>
+      <description>session de fotos lully</description>
+    </item>
+    
+    <item>
+      <title>Video Clip</title>
+      <link>https://lullymarka.github.io/blog/installation/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://lullymarka.github.io/blog/installation/</guid>
+      <description>video clip lully video juli mio Or you can check this video documentation for installing this template:   </description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://lullymarka.github.io/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lullymarka.github.io/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>lully</title>
+      <link>https://lullymarka.github.io/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lullymarka.github.io/author/mark-dinn/</guid>
+      <description>lully</description>
+    </item>
+    
+  </channel>
+</rss>
